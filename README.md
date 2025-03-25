@@ -26,8 +26,9 @@ sudo apt-get install -y libglfw3-dev libglew-dev libglm-dev libstb-dev libpng-de
 
 ### Compilation
 
-1. **Build the application**:
+1. **Download & Build the application**:
 ```bash
+git clone https://github.com/0xcds4r/opengl_picasa_cpp.git
 cd ~/opengl_picasa_cpp
 mkdir -p build
 cd build
